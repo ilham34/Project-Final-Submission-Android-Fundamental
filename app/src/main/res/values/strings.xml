@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">submissionGit</string>
+    <string name="name">Name</string>
+    <string name="username">username</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="following">Following</string>
+    <string name="repository">Repository</string>
+    <string name="follower">Follower</string>
+    <string name="share">Share</string>
+    <string name="search">search</string>
+    <string name="failResponse">Response Failed</string>
+    <string name="firstText">Please search a user by it\'s username.</string>
+    <string name="notFound">User not found.</string>
+    <string name="sharew">Share with </string>
+    <string name="favorite">favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="content_desc">Menampilkan gambar</string>
+
+    <string-array name="tab_title">
+        <item>"Followers"</item>
+        <item>"Following"</item>
+    </string-array>
+</resources>
+
+
